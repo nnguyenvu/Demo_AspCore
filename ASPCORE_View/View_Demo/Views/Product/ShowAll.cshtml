@@ -1,0 +1,44 @@
+﻿@model IEnumerable<View_Demo.Models.Product>
+
+@{
+    ViewData["Title"] = "ShowAll";
+}
+
+<h2>Danh sách các sản phẩm</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.MaHH)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TenHH)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DonGia)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.MaHH
+            </td>
+            <td>
+                @item.TenHH
+            </td>
+            <td>
+                @item.DonGia.ToString("#,#") VND
+            </td>
+            <td>
+                <a asp-action="Create" asp-controller="Product">Thêm</a>
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,11 @@
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\bin\Debug\netcoreapp2.0\View_Demo.deps.json
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\bin\Debug\netcoreapp2.0\View_Demo.runtimeconfig.json
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\bin\Debug\netcoreapp2.0\View_Demo.runtimeconfig.dev.json
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\bin\Debug\netcoreapp2.0\View_Demo.dll
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\obj\Debug\netcoreapp2.0\View_Demo.csprojAssemblyReference.cache
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\obj\Debug\netcoreapp2.0\View_Demo.csproj.CoreCompileInputs.cache
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\obj\Debug\netcoreapp2.0\View_Demo.AssemblyInfoInputs.cache
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\obj\Debug\netcoreapp2.0\View_Demo.AssemblyInfo.cs
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\bin\Debug\netcoreapp2.0\View_Demo.pdb
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\obj\Debug\netcoreapp2.0\View_Demo.dll
+D:\GITHUB\ASPCORE\Demo_AspCore\ASPCORE_View\View_Demo\obj\Debug\netcoreapp2.0\View_Demo.pdb
